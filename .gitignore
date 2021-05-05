@@ -143,6 +143,7 @@ sftp-config.json
 ### Code ###
 # Visual Studio Code - https://code.visualstudio.com/
 .vscode/*
+/.vscode
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
